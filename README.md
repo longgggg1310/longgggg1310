@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Long, Fullstack developer from <img src="longgggg1310\icon\vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="longgggg1310\icon\vietnam.svg" width="13"/> <b>VietNam</b>. </p>
+<p>Welcome to my page! </br> I'm Long, Fullstack developer from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>
 
 
 **Languages and Tools:** 
