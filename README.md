@@ -4,9 +4,8 @@
 <p>Welcome to my page! </br> I'm Long, a student from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>
 ## Connect with me 📫
 <p align="left">
-
-</p>
 <a href="mailto:japananh@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="long.vu190404@vnuk.edu.vn" height="40" width="40" /></a>
+</p>
 ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
 
 **Languages and Tools:** 
@@ -17,5 +16,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&hide=TeX&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=longgggg1310)
 
