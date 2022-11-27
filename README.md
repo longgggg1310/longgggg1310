@@ -1,15 +1,16 @@
-# Studio Ghibli Inspired Animation
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Did you know that Princess Mononoke sold more tickets than any other movie in Japanese history?
 
-I'm a big fan of Hayao Miyazaki and decided to dedicate my GitHub page to one of his films.  This is made completely in base HTML, CSS, and JS, so you can run it locally without installing any libraries.
+<p>Welcome to my page! </br> I'm Long, Fullstack developer from <img src="longgggg1310\icon\vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="longgggg1310\icon\vietnam.svg" width="13"/> <b>VietNam</b>. </p>
 
-GitHub Pages does not recognize mobile transforms, so image-loading and absolute-positioning do not translate well from web to mobile for certain objects like bushes and trees.  The best bet is to create your own animations using flex layout.
 
-The cool thing about GitHub pages is that it is a free way to host an animation.  
+**Languages and Tools:** 
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-Inspired by Hayao Miyazaki and a concept by Andrés Nicolás Tonello.
 
-Thanks!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&hide=TeX&layout=compact)
 
-You can check out my CodePen version here: https://codepen.io/WilliamStaudenmeier/pen/xxzjgwd
+
