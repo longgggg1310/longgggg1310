@@ -2,8 +2,10 @@
 
 
 <p>Welcome to my page! </br> I'm Long, a student from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>
+
 ## Connect with me 📫
 <p align="left">
+
 <a href="mailto:japananh@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="long.vu190404@vnuk.edu.vn" height="40" width="40" /></a>
 </p>
 
