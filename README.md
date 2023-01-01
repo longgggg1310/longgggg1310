@@ -16,7 +16,7 @@
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=go&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=git&style=social)&nbsp;&nbsp;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&hide=TeX&layout=compact)
