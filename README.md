@@ -15,10 +15,9 @@
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-</div>
-</p>
-
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
+  <img src="https://komarev.com/ghpvc/?username=longgggg1310&style=flat-square&color=blue" alt=""/>
+  
+  ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
 
 **Languages and Tools:** 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -30,5 +29,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=longgggg1310)
+</div>
+</p>
+
+
+
 
