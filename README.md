@@ -18,7 +18,7 @@
    ---
 </div>
 </p>
-### :woman_technologist: About Me :
+### About Me :
 
 
 
