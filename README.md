@@ -5,7 +5,7 @@
 
 ## Connect with me 📫
 <p align="left">
-
+<div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
 <a href="mailto:japananh@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="long.vu190404@vnuk.edu.vn" height="40" width="40" /></a>
 </p>
 
