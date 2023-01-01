@@ -25,13 +25,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&hide=TeX&layout=compact) -->
-
-</div>
-
-<div>
  ### :robot:	 About Me :
   <p>Welcome to my page! </br> I'm Long, a student from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>  
 </div>
+
 
 </p>
 
