@@ -17,14 +17,7 @@
   ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
    ---
 </div>
-<div>
-
-
-</div>
 ### :woman_technologist: About Me :
-
-
-
 </p>
 
 
