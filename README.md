@@ -1,8 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p>Welcome to my page! </br> I'm Long, a student from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>
-
 ## Connect with me 📫
 <p align="left">
 <div id="header" align="center"> 
@@ -21,7 +18,8 @@
 
    ---
 
-  ### :woman_technologist: About Me :
+  ### :robot:	 About Me :
+  <p>Welcome to my page! </br> I'm Long, a student from <img src="icon/vietnam.svg" width="13"/> <b>Da Nang, VietNam</b>, currently living in <img src="icon/vietnam.svg" width="13"/> <b>VietNam</b>. </p>
 
   
   
