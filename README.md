@@ -26,7 +26,7 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/vu-dang-long-551a19207/")
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
