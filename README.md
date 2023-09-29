@@ -15,7 +15,9 @@
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=longgggg1310&style=flat-square&color=blue" alt=""/>
+  <div>
+    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
+  </div>
   
   ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
    ---
