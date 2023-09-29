@@ -6,7 +6,9 @@
 
 <p align="left">
 <div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
+  <div>
+    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
+  </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +17,7 @@
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <div>
-    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
-  </div>
+
   
   ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
    ---
