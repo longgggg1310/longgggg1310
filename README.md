@@ -1,14 +1,12 @@
-<a href="#" target="_blank">
-  <img src="svg/a.svg" width="1200"/>
-</a>
+ <div>
+    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
+  </div>
 
 ## Connect with me 📫
 
 <p align="left">
 <div id="header" align="center"> 
-  <div>
-    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
-  </div>
+ 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
