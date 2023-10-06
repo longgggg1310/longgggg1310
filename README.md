@@ -1,5 +1,3 @@
-<!-- Profile Image -->
-<img src="https://your-image-url.jpg" alt="Your Name" width="100" height="100"/>
 
 <!-- Introduction -->
 ## About Me 👨‍💻
@@ -8,14 +6,14 @@ I'm a passionate undergraduate student at VN-UK Institute for Research and Execu
 
 ### Connect with me 📫
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:long.vu190404@vnuk.edu.vn">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:long.vu190404@vnuk.edu.vn">
+      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 
 ### :robot: About Me :
 
