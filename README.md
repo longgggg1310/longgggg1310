@@ -1,25 +1,20 @@
- <div>
-    👨‍💻 Undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
-  </div>
+<!-- Profile Image -->
+<img src="https://your-image-url.jpg" alt="Your Name" width="100" height="100"/>
 
-## Connect with me 📫
+<!-- Introduction -->
+## About Me 👨‍💻
+
+I'm a passionate undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
+
+### Connect with me 📫
 
 <p align="left">
-<div id="header" align="center"> 
- 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:long.vu190404@vnuk.edu.vn">
-      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
-
-  
-  ![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longgggg1310&theme=buefy&show_icons=true)
-   ---
-</div>
+  <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:long.vu190404@vnuk.edu.vn">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 ### :robot: About Me :
@@ -28,9 +23,7 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 
 - :telescope: I’m currently studying Data Science major.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/vu-dang-long-551a19207/")
-
----
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vu-dang-long-551a19207/)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
