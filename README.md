@@ -48,9 +48,7 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
   </span>
 </div>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
