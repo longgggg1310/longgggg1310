@@ -51,11 +51,10 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" >
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longgggg1310&layout=compact&theme=vision-friendly-dark" />
-  </a>
-  <a href="#" >
-    <img align="right" width="434" src="http://github-readme-streak-stats.herokuapp.com?user=longgggg1310&theme=dark&background=000000" />
-  </a>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
