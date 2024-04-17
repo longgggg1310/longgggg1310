@@ -27,14 +27,12 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,mongodb,python,java" /><br>
-  <img src="https://skillicons.dev/icons?i=nest,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git" />
+  <img src="https://skillicons.dev/icons?i=nest,javascript,typescript,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,aws" />
 </div>
   <br/><br/><br/>
 <hr/>
 <br>
-
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
