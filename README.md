@@ -23,30 +23,16 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vu-dang-long-551a19207/)
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScipt" alt="JavaScipt" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
-  </span>
-  <span style="display:inline-block; margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-  </span>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,mongodb,python,java" /><br>
+  <img src="https://skillicons.dev/icons?i=nest,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git" />
 </div>
+  <br/><br/><br/>
+<hr/>
+<br>
 
 
 
