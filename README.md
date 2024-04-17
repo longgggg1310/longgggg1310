@@ -28,7 +28,7 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,mongodb,python,java" /><br>
   <img src="https://skillicons.dev/icons?i=nest,javascript,typescript,pytorch" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,git,aws" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,aws,postgresql" />
 </div>
   <br/><br/><br/>
 <hr/>
