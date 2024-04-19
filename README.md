@@ -59,8 +59,8 @@
 
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-</div>
+<a href="https://github.com/minkxx/spotify-readme">
+  <img src="https://novatorem-pi-beige.vercel.app/" alt="Current Spotify Song">
+</a>
 
 
