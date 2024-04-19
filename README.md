@@ -58,6 +58,6 @@
 </h3>
 
 
-
+&nbsp;<div align="center">
 [![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
-
+</div>
