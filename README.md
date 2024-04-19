@@ -55,5 +55,7 @@
 [![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 
 
-
+<a href="https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai">
+    <img src="https://novatorem-pi-beige.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">`
+</a>
 
