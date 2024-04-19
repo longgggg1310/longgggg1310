@@ -3,19 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Long!;" />
 </h1>
 
-### Connect with me 📫
-<div align="center">
-
- <div id="badges">
-    <a href="https://www.linkedin.com/in/vu-dang-long-551a19207/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:long.vu190404@vnuk.edu.vn">
-      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
- </div>
- </div>
-<div align="center">
 
 ### :robot: About Me :
 
