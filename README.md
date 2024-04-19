@@ -52,7 +52,7 @@
 </h3>
 
 
-[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 
 
 
