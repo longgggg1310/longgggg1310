@@ -59,7 +59,7 @@
 
 
 
-<a href="{{songURI}}" class="spotify-logo">
+<a href="https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH?si=e038a69374f04e7f" class="spotify-logo">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <title>Spotify</title>
     <path
