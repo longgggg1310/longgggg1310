@@ -24,7 +24,6 @@
 <br>
 
 </div>
-[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -53,6 +52,7 @@
 </h3>
 
 
+[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 
