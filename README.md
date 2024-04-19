@@ -53,7 +53,7 @@
 </h3>
 
 
-<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+<a href="https://natemoo-re-phi.vercel.app/now-playing?open">
     <img src="https://natemoo-re-phi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
