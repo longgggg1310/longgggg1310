@@ -19,6 +19,7 @@
 
 &nbsp;<div align="center">
     [![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
+    [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 
