@@ -20,9 +20,9 @@ I'm a passionate undergraduate student at VN-UK Institute for Research and Execu
 
 I am a student at The VNUK Institute for Research and Executive Education <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in DaNang city from VietNam.
 
- :telescope: I’m currently studying Data Science major.
- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vu-dang-long-551a19207/)
+ - :telescope: I’m currently studying Data Science major.
+ - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vu-dang-long-551a19207/)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
