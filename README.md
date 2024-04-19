@@ -59,5 +59,5 @@
 
 
 
-[![Spotify](https://novatorem-zeta-gules.vercel.app/api)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem-zeta-gules.vercel.app)](https://open.spotify.com/user/omnitenebris)
 
