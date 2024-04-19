@@ -60,7 +60,6 @@
 
 
 <a href="https://github.com/minkxx/spotify-readme">
-  <img src="https://novatorem-pi-beige.vercel.app/" alt="Current Spotify Song">
+  <img src="https://minkxx-spotify-readme.onrender.com/" alt="Current Spotify Song">
 </a>
-
 
