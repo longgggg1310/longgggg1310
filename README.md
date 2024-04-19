@@ -14,6 +14,7 @@ I'm a passionate undergraduate student at VN-UK Institute for Research and Execu
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
+<div align="center">
 
 ### :robot: About Me :
 
@@ -33,6 +34,8 @@ I am a student at The VNUK Institute for Research and Executive Education <img s
   <br/><br/><br/>
 <hr/>
 <br>
+
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
