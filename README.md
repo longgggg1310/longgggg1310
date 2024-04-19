@@ -59,7 +59,7 @@
 
 
 
-<a href="https://github.com/minkxx/spotify-readme">
-  <img src="novatorem-zeta-gules.vercel.app/" alt="Current Spotify Song">
+<a href="https://github.com/longgggg1310/longgggg1310">
+  <img src="https://novatorem-zeta-gules.vercel.app/" alt="Current Spotify Song">
 </a>
 
