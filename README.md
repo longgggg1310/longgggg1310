@@ -1,8 +1,7 @@
 
-<!-- Introduction -->
-## About Me 👨‍💻
-
-I'm a passionate undergraduate student at VN-UK Institute for Research and Executive Education – The University of Danang, majoring in Data Science. Currently delving into the world of back-end development and proficient in NodeJS and Python. 🚀
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Long!;" />
+</h1>
 
 ### Connect with me 📫
 <div align="center">
