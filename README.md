@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Long!;" />
 </h1>
 <div align="center">
-
+    
+<a href="https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai">
+    <img src="https://novatorem-pi-beige.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">`
+</a>
 ### :robot: About Me :
 
 - I am a student at The VNUK Institute for Research and Executive Education <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in DaNang city from VietNam.
@@ -52,10 +55,7 @@
 </h3>
 
 
-[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 
 
-<a href="https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai">
-    <img src="https://novatorem-pi-beige.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">`
-</a>
+
 
