@@ -52,7 +52,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
+[![Spotify](https://novatorem-pi-beige.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 
 
 
