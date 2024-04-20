@@ -18,7 +18,7 @@
 <br/><br/><br/>
 
 &nbsp;<div align="center">
-[![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify?background_color=FFD1E3&border_color=FFD1E3)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
+[![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify?background_color=FFD1E3&border_color=5BBCFF)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 </div>
 <br/><br/><br/>
 
