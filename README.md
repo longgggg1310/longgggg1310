@@ -18,7 +18,7 @@
 <br/><br/><br/>
 
 &nbsp;<div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify?background_color=0d1117&border_color=FFF7FC)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 </div>
 <br/><br/><br/>
 
@@ -61,6 +61,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-[![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify?background_color=0d1117&border_color=FFF7FC)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
 
 
