@@ -17,10 +17,6 @@
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LongVuDang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vu-dang-long-551a19207/)
 <br/><br/><br/>
 
-&nbsp;<div align="center">
-[![Spotify](https://novatorem-zeta-gules.vercel.app/api/spotify?background_color=0C0C0C&border_color=5BBCFF)](https://open.spotify.com/user/31yqhikig54w3yruv6g34oqvyrai)
-</div>
-<br/><br/><br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
